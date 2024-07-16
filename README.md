@@ -44,6 +44,8 @@ with open(new_pyd_path, 'wb') as pyd_file:
 ### Image Formats
 
 Images can be in various formats such as JPEG (`.jpg`), PNG (`.png`), etc.
+Ensure all image names and .data.pyd  bases names are same so we can create .tar files. 
+
 
 #### Data Types
 
